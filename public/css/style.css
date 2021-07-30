@@ -290,6 +290,10 @@ footer p {
     font-size: 20px;
     justify-content: space-between;
 }
+.boton-login-div {
+    display: flex;
+    justify-content: center;
+}
 .boton-login:hover {
     background-color: #0022AA;
     color: white;
